@@ -3,7 +3,7 @@ from os import system
 from bs4 import BeautifulSoup
 import wget
 
-system('figlet "kdon"')
+system('figlet "Kdon"')
 
 url = raw_input("Enter the serial URL:")
 
